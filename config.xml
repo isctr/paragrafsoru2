@@ -12,6 +12,7 @@
 
   <icon src="icon.png" />
   <gap:splash src="splash.png" />
+  <preference name="android-targetSdkVersion" value="28" />
   
   <!-- iOS specific -->
   <preference name="orientation" value="landscape" />
@@ -25,6 +26,9 @@
 
   <!-- Android specific -->
   <preference name="android-installLocation" value="preferExternal" />
+  <preference name="deployment-target" value="10.0" />
+	<preference name="android-minSdkVersion" value="21" />
+	<access origin="*" />
 
 
   <!-- Windows phone specific -->
