@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.yourcompany.yourapp"
+    id        = "com.aocetinns.paragrafsoru"
     versionCode="1"
     version   = "1.0.0">
-  <name>Çıkmış Paragraf Soruları</name>
-  <description>No Description</description>
+  <name>Paragraf Soruları</name>
+  <description>Paragraf Soruları</description>
   <preference name="permissions" value="none"/>
 
-  <author href="http://www.questionwriter.com" email="your@email.com">Your Name</author>
+  <author href="http://www.sorucenneti.net" email="genckafem@gmail.com">genckafem</author>
 
   <icon src="icon.png" />
   <gap:splash src="splash.png" />
